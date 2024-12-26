@@ -12,7 +12,7 @@
 
 :root {
   /* colors */
-  --background-color: white;
+  --background-color:white;
   --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
@@ -75,6 +75,7 @@ body {
   margin: 0;
   background-color: var(--background-color);
   color: var(--text-color);
+  background-image: url("https://preview.redd.it/national-park-4k-3840x2160-by-a-i-v0-g4crddfnmt9a1.jpg?width=640&crop=smart&auto=webp&s=209e9f511b9ab724b8f85e520cf52427b35ec63b");
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
   line-height: 1.6;
